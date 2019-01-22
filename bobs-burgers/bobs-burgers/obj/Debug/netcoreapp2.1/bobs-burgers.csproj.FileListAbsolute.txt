@@ -1,0 +1,11 @@
+C:\Users\Owner\Source\Repos\bobs-burgers\bobs-burgers\bin\Debug\netcoreapp2.1\bobs-burgers.deps.json
+C:\Users\Owner\Source\Repos\bobs-burgers\bobs-burgers\bin\Debug\netcoreapp2.1\bobs-burgers.runtimeconfig.json
+C:\Users\Owner\Source\Repos\bobs-burgers\bobs-burgers\bin\Debug\netcoreapp2.1\bobs-burgers.runtimeconfig.dev.json
+C:\Users\Owner\Source\Repos\bobs-burgers\bobs-burgers\bin\Debug\netcoreapp2.1\bobs-burgers.dll
+C:\Users\Owner\Source\Repos\bobs-burgers\bobs-burgers\bin\Debug\netcoreapp2.1\bobs-burgers.pdb
+C:\Users\Owner\Source\Repos\bobs-burgers\bobs-burgers\obj\Debug\netcoreapp2.1\bobs-burgers.csprojAssemblyReference.cache
+C:\Users\Owner\Source\Repos\bobs-burgers\bobs-burgers\obj\Debug\netcoreapp2.1\bobs-burgers.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Source\Repos\bobs-burgers\bobs-burgers\obj\Debug\netcoreapp2.1\bobs-burgers.AssemblyInfoInputs.cache
+C:\Users\Owner\Source\Repos\bobs-burgers\bobs-burgers\obj\Debug\netcoreapp2.1\bobs-burgers.AssemblyInfo.cs
+C:\Users\Owner\Source\Repos\bobs-burgers\bobs-burgers\obj\Debug\netcoreapp2.1\bobs-burgers.dll
+C:\Users\Owner\Source\Repos\bobs-burgers\bobs-burgers\obj\Debug\netcoreapp2.1\bobs-burgers.pdb
