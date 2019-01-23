@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\Source\\Repos\\bobs-burgers\\bobs-burgers\\bobs-burgers.csproj",
+      "projectUniqueName": "C:\\Users\\Owner\\Source\\Repos\\bob-s-burgers-DanielleM5652\\bobs-burgers\\bobs-burgers\\bobs-burgers.csproj",
       "projectName": "bobs-burgers",
-      "projectPath": "C:\\Users\\Owner\\Source\\Repos\\bobs-burgers\\bobs-burgers\\bobs-burgers.csproj",
+      "projectPath": "C:\\Users\\Owner\\Source\\Repos\\bob-s-burgers-DanielleM5652\\bobs-burgers\\bobs-burgers\\bobs-burgers.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\Source\\Repos\\bobs-burgers\\bobs-burgers\\obj\\",
+      "outputPath": "C:\\Users\\Owner\\Source\\Repos\\bob-s-burgers-DanielleM5652\\bobs-burgers\\bobs-burgers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
