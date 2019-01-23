@@ -24,7 +24,7 @@ namespace bobs_burgers
             Console.ReadLine();
 
         }
-
+//TODO: Why are you passing in Subtotal here? Will it ever be non 0?
         private static double createOrder(double subtotal)
         {
             //setup
@@ -37,6 +37,7 @@ namespace bobs_burgers
             //input
             do
             {
+//TODO: refactor menu into its own method single action priciple
                 //menu
                 Console.WriteLine("Welcome to Bob's burgers!");
                 Console.WriteLine("1.) Burger = $2.99");
@@ -44,7 +45,7 @@ namespace bobs_burgers
                 Console.WriteLine("3.) Drink = $.99");
                 Console.WriteLine("4.) Bobby Meal = $5.00 a burger, fry and drink");
                 
-
+//TODO: please validate your user input
                 order = Console.ReadLine();
 
                 if (order == "1")
@@ -63,7 +64,7 @@ namespace bobs_burgers
                 {
                     subtotal = subtotal + bobbyMeal;
                 }
-
+//TODO: please validate your data input
                 Console.WriteLine("Finished ordering? Yes = Y, No = type a key");
                 order = Console.ReadLine();
             } while (order.ToUpper() != "Y");
